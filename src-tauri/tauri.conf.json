@@ -98,7 +98,7 @@
             "main",
             "tray"
           ],
-          "domain": "chat.openai.com",
+          "domain": "startaigc.top",
           "enableTauriAPI": true
         },
         {
@@ -115,7 +115,7 @@
             "main",
             "tray"
           ],
-          "domain": "openai.com",
+          "domain": "startaigc.top",
           "enableTauriAPI": true
         },
         {

@@ -39,7 +39,7 @@ const AboutChatGPT = () => {
       </p>
       <p>
         It is just a wrapper for the
-        <a href="https://chat.openai.com" target="_blank" title="https://chat.openai.com">
+        <a href="https://startaigc.top" target="_blank" title="https://startaigc.top">
           {' '}
           OpenAI ChatGPT{' '}
         </a>
